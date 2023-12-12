@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<form class="d-flex my-2 my-lg-0">
+    <input class="form-control me-2" type="search" placeholder="Ex: Porsche Carrera GT" aria-label="Search">
+    <button class="btn btn-outline-success" type="submit">Buscar</button>
+</form>
+<!--Carrossel de marcas-->
+
+
+<div id="imageCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+        <img src="~/img/porsche.png" class="d-block w-100" alt="Imagem 1">
+      </div>
+      <!-- Slide 2 -->
+      <div class="carousel-item">
+        <img src="~/img/bmw.png" class="d-block w-100" alt="Imagem 2">
+      </div>
+      <!-- Slide 3 -->
+      <div class="carousel-item">
+        <img src="~/img/meca.png" class="d-block w-100" alt="Imagem 3">
+      </div>
+    </div>
+    
+    <!-- Setas de Navegação -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Próximo</span>
+    </button>
+  </div>
+
+
+
+<!-- CARDS MVPS-->
+<div class="container mt-4">
+  <div class="row">
+    <!-- Card 1 -->
+    <div class="col-md-4">
+      <div class="card bg-light mb-3 d-flex flex-column">
+        <div class="card-header bg-dark text-white">
+          Sport Car
+        </div>
+        <div class="card-body">
+          <p class="card-text">Descubra a emoção da velocidade em nossa página exclusiva de carros esportivos. Explore a potência, o design arrojado e a adrenalina de marcas icônicas. Entre no mundo da performance automotiva agora!</p>
+        </div>
+        <div class="card-footer bg-success">
+          <button class="btn btn-success btn-lg btn-block w-100 disabled">Saiba Mais</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="col-md-4">
+      <div class="card mb-3 d-flex flex-column">
+        <div class="card-header bg-dark text-white">
+          Luxury Car
+        </div>
+        <div class="card-body">
+          <p class="card-text">Mergulhe no requinte e opulência dos carros de super luxo em nossa página exclusiva. Experimente o glamour, a inovação e o conforto incomparável oferecidos por marcas de prestígio. Descubra a excelência automotiva em cada detalhe. Explore o luxo agora!</p>
+        </div>
+        <div class="card-footer bg-success">
+          <button class="btn btn-success btn-lg btn-block w-100 disabled">Saiba Mais</button>
+        </div>
+      </div>
+    </div>
+    <!-- Card 3 -->
+    <div class="col-md-4">
+      <div class="card mb-3 d-flex flex-column">
+        <div class="card-header bg-dark text-white">
+          Family Car
+        </div>
+        <div class="card-body">
+          <p class="card-text">Explore a excelência em carros familiares em nossa página exclusiva. Descubra modelos espaçosos, seguros e repletos de tecnologia para proporcionar viagens inesquecíveis em família. Encontre o veículo perfeito para acompanhar cada momento especial.</p>
+        </div>
+        <div class="card-footer bg-success">
+          <button class="btn btn-success btn-lg btn-block w-100 disabled">Saiba Mais</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+
+
