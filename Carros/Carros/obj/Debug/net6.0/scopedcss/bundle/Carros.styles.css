@@ -3,7 +3,6 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 
-
 a.navbar-brand[b-xcaejhi8a6] {
   white-space: normal;
   text-align: center;
@@ -50,4 +49,9 @@ button.accept-policy[b-xcaejhi8a6] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.transicao-carousel[b-xcaejhi8a6]{
+  transition: opacity 6s ease-in-out;
+
 }
