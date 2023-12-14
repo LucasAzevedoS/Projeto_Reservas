@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W2Gb/exfqdLPTkjvsGcO5AuTj8Cuwz3i1nQv4N9pfy8=",
+  "Hash": "Nx31D63eYA4D+3Pqa1pGr3UwhJH8SKEArilkWRGaMD0=",
   "Source": "Carros",
   "BasePath": "_content/Carros",
   "Mode": "Default",
@@ -66,6 +66,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\css\\style.css",
+      "SourceId": "Carros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\",
+      "BasePath": "_content/Carros",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\favicon.ico",
+      "SourceId": "Carros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\",
+      "BasePath": "_content/Carros",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\img\\BM.png",
@@ -134,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\PorscheGt3.png"
+    },
+    {
+      "Identity": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\img\\urus.png",
+      "SourceId": "Carros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\",
+      "BasePath": "_content/Carros",
+      "RelativePath": "img/urus.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\urus.png"
     },
     {
       "Identity": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\js\\site.js",

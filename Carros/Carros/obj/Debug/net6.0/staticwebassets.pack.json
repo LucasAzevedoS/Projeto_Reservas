@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
       "Id": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\img\\BM.png",
       "PackagePath": "staticwebassets\\img\\BM.png"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\img\\porsche-model.png",
       "PackagePath": "staticwebassets\\img\\porsche-model.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\img\\urus.png",
+      "PackagePath": "staticwebassets\\img\\urus.png"
     },
     {
       "Id": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\wwwroot\\js\\site.js",
