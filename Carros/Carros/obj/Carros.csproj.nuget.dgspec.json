@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\Carros.csproj": {}
+    "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Projeto_Reservas-1\\Carros\\Carros\\Carros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\Carros.csproj": {
+    "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Projeto_Reservas-1\\Carros\\Carros\\Carros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\Carros.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Projeto_Reservas-1\\Carros\\Carros\\Carros.csproj",
         "projectName": "Carros",
-        "projectPath": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\Carros.csproj",
+        "projectPath": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Projeto_Reservas-1\\Carros\\Carros\\Carros.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Carros\\Carros\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Documents\\Projeto\\Projeto_Reservas\\Projeto_Reservas-1\\Carros\\Carros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
