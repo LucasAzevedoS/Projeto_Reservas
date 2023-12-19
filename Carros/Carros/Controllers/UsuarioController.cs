@@ -4,21 +4,21 @@ using System.Diagnostics;
 
 namespace Carros.Controllers
 {
-    public class LoginController : Controller
+    public class UsuarioController : Controller
     {
-        private readonly ILogger<LoginController> _logger;
+        private readonly ILogger<UsuarioController> _logger;
 
-        public LoginController(ILogger<LoginController> logger)
+        public UsuarioController(ILogger<UsuarioController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Cadastro()
         {
             return View();
         }

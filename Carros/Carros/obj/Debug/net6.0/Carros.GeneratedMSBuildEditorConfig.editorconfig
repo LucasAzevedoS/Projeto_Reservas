@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Carros
 build_property.RootNamespace = Carros
-build_property.ProjectDir = C:\Users\vitor\Documents\Projeto\Projeto_Reservas\Projeto_Reservas-1\Carros\Carros\
+build_property.ProjectDir = C:\Users\vitor\Documents\Projeto_Reservas\Carros\Carros\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vitor\Documents\Projeto\Projeto_Reservas\Projeto_Reservas-1\Carros\Carros
+build_property.MSBuildProjectDirectory = C:\Users\vitor\Documents\Projeto_Reservas\Carros\Carros
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Cadastro/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9caW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Home/Index.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Home/Privacy.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Login/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Shared/Error.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/_ViewImports.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Usuario/cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xjYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Usuario/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/_ViewStart.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vitor/Documents/Projeto/Projeto_Reservas/Projeto_Reservas-1/Carros/Carros/Views/Shared/_Layout.cshtml]
+[C:/Users/vitor/Documents/Projeto_Reservas/Carros/Carros/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xcaejhi8a6
